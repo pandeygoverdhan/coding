@@ -5,3 +5,14 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/pandeygoverdhan/coding.git
 git push -u origin main
+
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
